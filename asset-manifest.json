@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doanfe/static/css/main.1bc38942.css",
+    "main.css": "/doanfe/static/css/main.4f068939.css",
     "main.js": "/doanfe/static/js/main.efde03c0.js",
     "static/media/about-01.png": "/doanfe/static/media/about-01.c9fff7ece73708346f06.png",
     "static/media/product4.png": "/doanfe/static/media/product4.b8249947f1767f6a7163.png",
@@ -31,11 +31,11 @@
     "static/media/cate-3.jpg": "/doanfe/static/media/cate-3.a0ce2db389bea4191395.jpg",
     "static/media/cate-2.jpg": "/doanfe/static/media/cate-2.ca3326008f2943c4f81d.jpg",
     "index.html": "/doanfe/index.html",
-    "main.1bc38942.css.map": "/doanfe/static/css/main.1bc38942.css.map",
+    "main.4f068939.css.map": "/doanfe/static/css/main.4f068939.css.map",
     "main.efde03c0.js.map": "/doanfe/static/js/main.efde03c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bc38942.css",
+    "static/css/main.4f068939.css",
     "static/js/main.efde03c0.js"
   ]
 }
